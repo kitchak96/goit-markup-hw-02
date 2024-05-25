@@ -72,9 +72,34 @@ ol {
   background-color: #404bbf;
 }
 
-.section-two-strategy,
-.section-two-punctuality,
-.section-two-technologies,
+.section-two-strategy {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.section-two-onep {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.section-two-punctuality {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.section-two-twop {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
 .section-two-diligence {
   font-weight: 500;
   font-size: 20px;
@@ -82,10 +107,20 @@ ol {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-
-.section-two-onep,
-.section-two-twop,
-.section-two-threep,
+.section-two-threep {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.section-two-technologies {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
 .section-two-fourp {
   font-weight: 400;
   font-size: 16px;
