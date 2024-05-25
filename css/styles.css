@@ -47,8 +47,8 @@ ol {
   color: #404bbf;
 }
 .section-one {
-  width: 1440px;
-  height: 600px;
+  /* width: 1440px; */
+  /* height: 600px; */
   background-color: #2e2f42;
 }
 .text-section-one {
@@ -60,17 +60,16 @@ ol {
   color: #fff;
 }
 .button-order {
-
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  cursor: pointer;
 }
 
 .button-order:hover,
 .button-order:focus {
-  color: #404bbf;}
-
-.button-order:cursor { pointer; }
+  background-color: #404bbf;
+}
