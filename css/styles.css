@@ -72,6 +72,9 @@ ol {
   background-color: #404bbf;
 }
 
+.section-two-all {
+  background-color: #ffffff;
+}
 .section-two-p {
   font-weight: 400;
   font-size: 16px;
@@ -115,7 +118,4 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-}
-.list-name-profession {
-  background-color: #ffffff;
 }
