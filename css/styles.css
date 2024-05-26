@@ -119,7 +119,8 @@ ol {
   text-align: center;
   color: #434455;
 }
-.section-four {
+.tools {
+  background-color: #ffffff;
 }
 .section-four-title {
   font-weight: 700;
@@ -129,9 +130,6 @@ ol {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-}
-.tools {
-  background-color: #fff;
 }
 
 .section-four-toolname {
