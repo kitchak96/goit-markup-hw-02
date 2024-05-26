@@ -119,3 +119,31 @@ ol {
   text-align: center;
   color: #434455;
 }
+.section-four {
+}
+.text-section-four {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.tools {
+  background-color: #fff;
+}
+.section-four-all {
+}
+.section-four-toolname {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.section-four-tooldis {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
