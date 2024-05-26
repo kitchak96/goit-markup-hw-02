@@ -121,18 +121,19 @@ ol {
 }
 .section-four {
 }
-.text-section-four {
+.section-four-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .tools {
   background-color: #fff;
 }
-.section-four-all {
-}
+
 .section-four-toolname {
   font-weight: 500;
   font-size: 20px;
